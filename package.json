@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "tsc && node dist"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}

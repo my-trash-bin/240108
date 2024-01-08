@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "alwaysStrict": true,
+    "strictNullChecks": true,
+    "strictBindCallApply": true,
+    "strictFunctionTypes": true,
+    "strictPropertyInitialization": true,
+    "forceConsistentCasingInFileNames": true,
+    "target": "es2020",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "rootDir": "src",
+    "outDir": "dist",
+  },
+  "ts-node": {
+    "esm": true,
+  },
+}
